@@ -1,4 +1,4 @@
-# Coucou, moi c'est Awoesso ! 👋
+# Coucou, moi c'est Eli ! 👋
 
 Bienvenue sur mon profil GitHub ! 
 
