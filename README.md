@@ -1,8 +1,8 @@
-# Coucou, moi c'est Eli ! 👋
+# Coucou moi c'est Eli ! 👋
 
-Bienvenue sur mon profil GitHub ! 
+Bienvenue sur mon profil gitHub 
 
-Je suis un étudiant passionné par le développement web Fullstack et l'IA. Pour moi le code, c'est pas juste de la logique : c'est surtout un super moyen de créer des trucs utiles et sympas au quotidien.
+Je suis un étudiant passionné par le développement web Fullstack et l'IA. Pour moi le code c'est pas juste de la logique : c'est surtout un super moyen de créer des trucs utiles et sympas au quotidien.
 
 ###  Ce que j'utilise au quotidien
 - **Frontend :** JavaScript, typescript, React.js, Tailwind CSS, HTML5 / CSS3
