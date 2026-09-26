@@ -1,14 +1,6 @@
-# Cc moi c'est Eli ! 👋
+# Salut moi c’est Eli 👋
 
-Bienvenue sur mon profil gitHub 
-
-Je suis un étudiant passionné par le développement web Fullstack et l'IA. Pour moi le code c'est pas juste de la logique : c'est surtout un super moyen de créer des trucs utiles et sympas au quotidien.
-
-###  Ce que j'utilise au quotidien
-- **Frontend :** JavaScript, typescript, React.js, Tailwind CSS, HTML5 / CSS3
-- **Backend & Dev :** Node.js, Git, GitHub Codespaces
-
-Quand je suis pas en train de débugger ou de tester des nouvelles techno, j'adore bouquiner et creuser des sujets scientifiques (les maths et la physique théorique, ça me passionne depuis toujours ).
-
----
-💬 *N'hésites pas à faire un tour sur mes dépôts ou à me contacter si tu veux discuter tech ou science !*
+Je suis étudiant et je m’intéresse au développement web et à l’IA.
+Je passe pas mal de temps à coder, apprendre et construire des projets.
+J’aime aussi les maths et la science.
+Bienvenue sur mon GitHub
